@@ -1,0 +1,11 @@
+*{
+  font-family: 'Bebas'; 
+  word-wrap: break-all;  
+
+}
+.container{
+  margin: 0 auto;
+  width: 70%;
+  min-width: 375px;
+  font-family: 'Bebas';
+}

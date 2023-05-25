@@ -1,0 +1,38 @@
+.modal-edit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-edit-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.modal-edit-input{
+    display: block;
+    width: 100%;
+    display: block;
+    width: 100%;
+    min-height: 50px;
+    height: auto;
+    border-radius: 5px;
+    word-wrap: break-all; 
+}
+.modal-edit h1{
+    font-size: 30px;
+}
+
+.button-group{
+    margin: 30px;
+
+}
+
+.button-group button{
+    margin: 10px;
+}
+
+.cancel{
+    background-color:#DE2F4A ;
+}
